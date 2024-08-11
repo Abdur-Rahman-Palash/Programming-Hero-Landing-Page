@@ -16,7 +16,7 @@ body {
     gap: 20px;
     justify-content: center;
     align-items: center;
-    width: 100vw;
+    width: 60vw;
 }
 .nav-bar-others{
     display: flex;
@@ -157,6 +157,7 @@ border-radius: 5px;
         display: flex;
         gap: 50px;
         margin-top: 20px;
+        align-items: center;
     }
     .Complete-text-4{
         margin-top: 20px;
@@ -173,4 +174,37 @@ border-radius: 5px;
     align-items: center;
     width: 1050px;
     margin-top: 80px;
+}
+.footer{
+    color: white;
+    background: #150826;
+    padding: 30px;
+    margin-top: 80px;
+    display: flex;
+    gap: 40px;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-4{
+    color: white;
+    text-align: center;
+}
+.apps{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.footer-3-icons{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.apps-1 img{
+    width: 150px;
+}
+.apps-2 img{
+    width: 150px;
+}
+.apps-3 img{
+    width: 150px;
 }
